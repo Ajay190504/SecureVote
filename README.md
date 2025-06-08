@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Blockchain Voting System
 
 A decentralized voting system built with Ethereum smart contracts and web3.js.
@@ -79,3 +79,18 @@ npm start
 # SecureVote
 Its my mini project SecureVote - Blockchain Based Voting System
 >>>>>>> 7c206f1e0bc2d4972c525013d28aa09f8978760a
+
+# Output :
+
+![Image](https://github.com/user-attachments/assets/43913179-3ce5-4573-b256-2b9c765ffa13)
+![Image](https://github.com/user-attachments/assets/d43e185e-6c84-43c1-8fcf-6f9095374120)
+![Image](https://github.com/user-attachments/assets/4b61b343-3668-4b33-927e-0c13fc9354ac)
+![Image](https://github.com/user-attachments/assets/a27de14b-0f2b-48b9-966b-e15a42f304ba)
+![Image](https://github.com/user-attachments/assets/b0da0a0b-2522-40c9-bc6f-ab7c2535efde)
+![Image](https://github.com/user-attachments/assets/ff2addb2-b510-44f2-956e-737d415e70f4)
+![Image](https://github.com/user-attachments/assets/c34ee89e-6eb9-44fc-b960-90d84ce39201)
+![Image](https://github.com/user-attachments/assets/8679ff75-8f98-4da8-98b6-55a1b342de26)
+![Image](https://github.com/user-attachments/assets/7fe884e2-9312-4e87-8f70-786c8ab573ec)
+![Image](https://github.com/user-attachments/assets/4a7a3baa-58d9-4249-868b-2a57b6af7e15)
+![Image](https://github.com/user-attachments/assets/e49e9ea6-a2da-4cdf-8822-e49bae96a7f3)
+![Image](https://github.com/user-attachments/assets/b57bcadc-cc3d-440b-a029-3d76a31bfc05)
