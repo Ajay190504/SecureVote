@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Blockchain Voting System
 
 A decentralized voting system built with Ethereum smart contracts and web3.js.
@@ -74,3 +75,7 @@ npm start
    - Check if election is active
    - Ensure voter hasn't already voted
 
+=======
+# SecureVote
+Its my mini project SecureVote - Blockchain Based Voting System
+>>>>>>> 7c206f1e0bc2d4972c525013d28aa09f8978760a
